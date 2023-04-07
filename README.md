@@ -13,4 +13,4 @@ Some other notable groups of people likely to accept coffee coupons include:
 * People under 21 (vs all other age groups)
 * People closer than 25 minutes from the venue 
 
-Please find the Jupyter notebook at [coupons.ipynb].
+Please find the Jupyter notebook at [coupons.ipynb](coupons.ipynb).
